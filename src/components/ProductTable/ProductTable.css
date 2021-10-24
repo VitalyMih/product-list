@@ -1,0 +1,11 @@
+.ProductTable {
+    display: flex;
+    flex-direction: column;
+}
+
+.ProductTable_header {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
